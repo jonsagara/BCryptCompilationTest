@@ -1,6 +1,0 @@
-<Project>
-	<PropertyGroup>
-		<AccelerateBuildsInVisualStudio>true</AccelerateBuildsInVisualStudio>
-		<LangVersion>13.0</LangVersion>
-	</PropertyGroup>
-</Project>
