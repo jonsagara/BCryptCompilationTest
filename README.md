@@ -59,3 +59,14 @@ Restored C:\Dev\SANDBOX\BCryptCompilationTest\src\BCryptCompilationTest\BCryptCo
 ========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
 ========== Rebuild completed at 2:55 PM and took 03.064 seconds ==========
 ```
+
+## Environment
+
+- Visual Studio 2022 17.12.3
+- Visual Studio 2022 17.13.0 Preview 2.0
+- .NET SDK 9.0.101
+- Windows 11 Version 24H2 (OS Build 26100.2605)
+
+## JetBrains Rider
+
+The solution also compiles successfully in JetBrains Rider 2024.3.
